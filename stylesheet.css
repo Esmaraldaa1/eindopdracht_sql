@@ -1,0 +1,46 @@
+body {
+    background-color: #CC998D;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    clear: right;
+}
+
+#menu a {
+    background-color: #be7d6f;
+    padding: 10px;
+    color: #000;
+}
+
+#menu a:hover {
+    color: #fff;
+}
+
+table {
+    background-color: #be7d6f;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table td,
+table th {
+    width: 200px;
+    border: 1px #000 solid;
+    padding: 3px;
+    text-align: left;
+}
+
+table th {
+    background-color: #b87161;
+}
+
+.left {
+    float: left;
+    width: 40%;
+}
+
+.right {
+    float: right;
+    width: 58%;
+}
